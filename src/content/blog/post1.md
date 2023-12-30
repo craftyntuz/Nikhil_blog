@@ -2,7 +2,7 @@
 title: "Diving into Rust: A beginner's journal | part 1"
 description: "My learning journey on rust"
 pubDate: "Aug 27 2023"
-heroImage: "/post_img.webp"
+heroImage: "/rust"
 tags: ["Rust"]
 ---
 
@@ -86,6 +86,6 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 once that's done run `rustup update` as rust receives updates very frequently. This will ensure your rust installation is up to date.
 
-As for Windows folks. I found a neat [article](www.alpharithms.com/installing-rust-on-windows-403718/) that explains how to install rust on windows.
+As for Windows folks. I found a neat [article](www.alpharithms.com/installing-rust-on-windows-403718) that explains how to install rust on windows.
 
 Thanks for joining me on this Rust journey! I aimed for simplicity in explaining complex topics. Whether you're new to Rust or experienced, your feedback is gold. If you spotted any hiccups in my explanations or want to share your thoughts, please don't hesitate.
