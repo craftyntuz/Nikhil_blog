@@ -2,7 +2,7 @@
 title: "Diving into Rust: A beginner's journal | part 1"
 description: "My learning journey on rust"
 pubDate: "Aug 27 2023"
-heroImage: "/rust"
+heroImage: "/rust.png"
 tags: ["Rust"]
 ---
 
